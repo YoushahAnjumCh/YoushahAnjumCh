@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **https://linktr.ee/youshah**
 
-- 📄 Know about my experiences [www.youshah.com](www.youshah.com)
+- 📄 Know about my experiences https://www.youshah.com/
 
 - ⚡ Fun fact **I love reading**
 
