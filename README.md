@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **on open-source projects.**
 
-- 👨‍💻 All of my projects are available at [www.youshah.com](www.youshah.com)
-
 - 📫 How to reach me **https://linktr.ee/youshah**
 
 - 📄 Know about my experiences [www.youshah.com](www.youshah.com)
