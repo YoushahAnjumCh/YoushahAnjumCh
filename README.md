@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Youshah Anjum</h1>
+<h1 align="center">Hi, I'm Youshah Anjum</h1>
 <h3 align="center">Flutter full-stack engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youshahanjumch&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="youshahanjumch" /> </p>
